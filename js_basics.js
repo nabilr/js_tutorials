@@ -1,4 +1,4 @@
-"use strict"; //enfrce type declarion
+"use strict"; //enforce type declaration
 
 
 //Dictionary object.
